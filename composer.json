@@ -1,0 +1,14 @@
+{
+    "name": "samman/yii2-advanced-debugger",
+    "type": "yii2-extension",
+    "require-dev": {
+        "composer/composer": "^1.0 | ^2.0@dev",
+        "phpunit/phpunit": "<7"
+    },
+    "authors": [
+        {
+            "name": "Samman",
+            "email": "mazenalsmman@gmail.com"
+        }
+    ]
+}
