@@ -5,6 +5,11 @@
         "composer/composer": "^1.0 | ^2.0@dev",
         "phpunit/phpunit": "<7"
     },
+    "require": {
+        "yidas/yii2-bower-asset": "*",
+        "yiisoft/yii2": "2.0.39",
+        "yiisoft/yii2-debug": "^2.1"
+    },
     "minimum-stability": "stable",
     "version": "1",
     "authors": [
@@ -12,5 +17,10 @@
             "name": "Samman",
             "email": "mazenalsmman@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    }
 }
