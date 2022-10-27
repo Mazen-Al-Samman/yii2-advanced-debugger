@@ -17,7 +17,8 @@ New Panels Added to the Yii2 debugger via this package:
 <ul>
     <li>
         <h4>Response Panel</h4>
-        Panel for the JSON response returned by the sent request.
+        <p>Panel for the JSON response returned by the sent request.</p>
+        <img style="width: 600px;" src="https://user-images.githubusercontent.com/59656525/198234064-152310e8-da7f-4b18-8e2b-f84b38d9bd2a.png" />
     </li>
 </ul>
 
@@ -25,6 +26,7 @@ New Panels Added to the Yii2 debugger via this package:
     <li>
         <h4>CURL Panel</h4>
         Copy the request as a CURL with full params, headers, and body params.
+        <img style="width: 600px;" src="https://user-images.githubusercontent.com/59656525/198233273-b7378f40-6a01-4232-98db-2e07f352552f.png" />
     </li>
 </ul>
 
